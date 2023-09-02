@@ -2,7 +2,7 @@
 task 1 for the bharat internship as a full stack web development
 🎉 Exciting News! 🎉
 
-I am thrilled to announce the successful completion of my first task as a content management intern at Barat! 🚀📚
+I am thrilled to announce the successful completion of my first task as a content management intern at BHarat! 🚀📚
 
 Over the past few weeks, I have been diligently working on developing a state-of-the-art content management tool that will revolutionize the way we handle our valuable content. 🌟💼
 
